@@ -1,3 +1,3 @@
 # First App
 ### App screenshot
-![](./hellochallenge.png)
+![](./Hello_challenge.png)

@@ -1,3 +1,3 @@
-# First App
+# Toast App
 ### App screenshot
-![](./HelloToast.png)
+![](./Helotost.png)
